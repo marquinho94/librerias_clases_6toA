@@ -1,0 +1,43 @@
+gato {
+    edad: 2 años
+    color:naranja
+    nombre: bigotes
+    apellido: perez
+}
+
+perro{
+    edad: 5 años
+    color:blanco
+    nombre: fatiga
+    apellido: argento
+}
+
+
+
+
+
+
+
+
+
+
+class animal {
+    edad
+    color
+    nombre
+    apellido
+
+    void fechavacunacion(){
+        //mucho cogido
+    }
+
+}
+
+animal gatoNuevo
+
+
+gatoNuevo.edad=1
+gatoNuevo.color=negro
+
+
+gatoNuevo.fechavacunacion()
